@@ -1,0 +1,4 @@
+repository "Edgar_testgamedev2/Edgar_testgamedev2@10170881615405@cloud"
+  path "/"
+    br "/main"
+    co "/main"
